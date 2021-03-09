@@ -1,0 +1,1261 @@
+listen	O
+to	O
+westbam	B-artist
+alumb	O
+allergic	B-album
+on	O
+google	B-service
+music	I-service
+
+add	O
+step	B-entity_name
+to	I-entity_name
+me	I-entity_name
+to	O
+the	O
+50	B-playlist
+clásicos	I-playlist
+playlist	O
+
+i	O
+give	O
+this	O
+current	B-object_select
+textbook	B-object_type
+a	O
+rating	O
+value	O
+of	O
+1	B-rating_value
+and	O
+a	O
+best	O
+rating	O
+of	O
+6	B-best_rating
+
+play	O
+the	O
+song	B-music_item
+little	B-track
+robin	I-track
+redbreast	I-track
+
+please	O
+add	O
+iris	B-artist
+dement	I-artist
+to	O
+my	B-playlist_owner
+playlist	O
+this	B-playlist
+is	I-playlist
+selena	I-playlist
+
+add	O
+slimm	B-artist
+cutta	I-artist
+calhoun	I-artist
+to	O
+my	B-playlist_owner
+this	B-playlist
+is	I-playlist
+prince	I-playlist
+playlist	O
+
+i	O
+want	O
+to	O
+listen	O
+to	O
+seventies	B-year
+music	O
+
+play	O
+a	O
+popular	B-sort
+chant	B-music_item
+by	O
+brian	B-artist
+epstein	I-artist
+
+find	O
+fish	B-movie_name
+story	I-movie_name
+
+book	O
+a	O
+spot	O
+for	O
+3	B-party_size_number
+in	O
+mt	B-state
+
+i	O
+need	O
+a	O
+forecast	O
+for	O
+jetmore	B-city
+massachusetts	B-state
+in	O
+1	B-timeRange
+hour	I-timeRange
+and	I-timeRange
+1	I-timeRange
+second	I-timeRange
+from	I-timeRange
+now	I-timeRange
+
+rate	O
+this	B-object_select
+series	B-object_part_of_series_type
+a	O
+5	B-rating_value
+
+give	O
+me	O
+a	O
+list	O
+of	O
+movie	B-object_type
+times	I-object_type
+for	O
+films	B-movie_type
+in	B-spatial_relation
+the	I-spatial_relation
+area	I-spatial_relation
+
+can	O
+you	O
+play	O
+me	O
+some	O
+eighties	B-year
+music	O
+by	O
+adele	B-artist
+
+please	O
+let	O
+me	O
+know	O
+the	O
+weather	O
+forcast	O
+of	O
+stanislaus	B-geographic_poi
+national	I-geographic_poi
+forest	I-geographic_poi
+far	B-spatial_relation
+in	B-timeRange
+nine	I-timeRange
+months	I-timeRange
+
+book	O
+a	O
+restaurant	B-restaurant_type
+for	O
+eight	B-party_size_number
+people	O
+in	B-timeRange
+six	I-timeRange
+years	I-timeRange
+
+i	O
+need	O
+to	O
+book	O
+a	O
+restaurant	B-restaurant_type
+in	O
+fork	B-city
+mountain	I-city
+sc	B-state
+for	O
+valarie	B-party_size_description
+mari	I-party_size_description
+and	I-party_size_description
+i	I-party_size_description
+
+add	O
+to	O
+playlist	O
+confidence	B-playlist
+boost	I-playlist
+here	B-entity_name
+comes	I-entity_name
+santa	I-entity_name
+claus	I-entity_name
+
+book	O
+a	O
+restaurant	B-restaurant_type
+at	O
+sixteen	B-timeRange
+o	I-timeRange
+clock	I-timeRange
+in	O
+sc	B-state
+
+add	O
+another	O
+artist	B-music_item
+to	O
+the	O
+spotlight	B-playlist
+on	I-playlist
+country	I-playlist
+2016	I-playlist
+playlist	O
+
+find	O
+a	O
+movie	B-object_location_type
+house	I-object_location_type
+showing	O
+cage	B-movie_name
+without	I-movie_name
+a	I-movie_name
+key	I-movie_name
+
+add	O
+sugarolly	B-entity_name
+days	I-entity_name
+to	O
+my	B-playlist_owner
+list	O
+your	B-playlist
+favorite	I-playlist
+slaughterhouse	I-playlist
+
+show	O
+me	O
+the	O
+picture	B-object_type
+creatures	B-object_name
+of	I-object_name
+light	I-object_name
+and	I-object_name
+darkness	I-object_name
+
+search	O
+for	O
+the	B-object_name
+adventures	I-object_name
+of	I-object_name
+cookie	I-object_name
+&	I-object_name
+cream	I-object_name
+
+add	O
+this	O
+track	B-music_item
+to	O
+my	B-playlist_owner
+global	B-playlist
+funk	I-playlist
+
+find	O
+animated	B-movie_type
+movies	I-movie_type
+nearest	B-spatial_relation
+at	O
+a	O
+movie	B-object_location_type
+house	I-object_location_type
+
+play	O
+hell	B-object_name
+house	I-object_name
+song	B-object_type
+
+give	O
+this	B-object_select
+novel	B-object_type
+5	B-rating_value
+stars	B-rating_unit
+
+find	O
+me	O
+showtimes	O
+for	O
+animated	B-movie_type
+movies	I-movie_type
+in	B-spatial_relation
+the	I-spatial_relation
+neighbourhood	I-spatial_relation
+
+find	O
+movie	B-object_type
+times	I-object_type
+
+play	O
+the	O
+top-20	B-sort
+best	I-sort
+chicane	B-artist
+songs	O
+on	O
+deezer	B-service
+
+i	O
+want	O
+to	O
+give	O
+this	O
+current	B-object_select
+textbook	B-object_type
+4	B-rating_value
+points	B-rating_unit
+
+add	O
+manuelita	B-entity_name
+to	O
+my	B-playlist_owner
+indiespensables	B-playlist
+playlist	O
+
+show	O
+movie	B-object_type
+schedules	I-object_type
+for	O
+douglas	B-location_name
+theatre	I-location_name
+company	I-location_name
+
+i	O
+d	O
+like	O
+to	O
+see	O
+the	O
+show	B-object_type
+onion	B-object_name
+sportsdome	I-object_name
+
+i	O
+d	O
+like	O
+to	O
+go	O
+to	O
+the	O
+popular	B-sort
+bistro	B-restaurant_type
+in	O
+oh	B-state
+
+what	O
+s	O
+the	O
+weather	O
+in	O
+my	O
+current	B-current_location
+spot	I-current_location
+the	B-timeRange
+day	I-timeRange
+after	I-timeRange
+tomorrow	I-timeRange
+
+play	O
+playlist	O
+the	B-playlist
+realest	I-playlist
+down	I-playlist
+south	I-playlist
+
+add	O
+this	O
+artist	B-music_item
+to	O
+gretchen	B-playlist_owner
+s	I-playlist_owner
+soul	B-playlist
+revived	I-playlist
+playlist	O
+
+find	O
+a	O
+video	B-object_type
+game	I-object_type
+called	O
+victory	B-object_name
+march	I-object_name
+
+find	O
+a	O
+novel	B-object_type
+called	O
+industry	B-object_name
+
+book	O
+a	O
+taverna	B-restaurant_type
+that	O
+serves	O
+vichyssoise	B-served_dish
+within	B-spatial_relation
+walking	I-spatial_relation
+distance	I-spatial_relation
+in	O
+oh	B-state
+
+let	O
+me	O
+see	O
+the	O
+movie	O
+schedule	B-object_type
+for	O
+seed	B-movie_name
+of	I-movie_name
+chucky	I-movie_name
+
+play	O
+a	O
+chant	B-music_item
+by	O
+mj	B-artist
+cole	I-artist
+
+what	O
+is	O
+the	O
+weather	O
+like	O
+in	O
+the	O
+city	O
+of	O
+frewen	B-city
+in	O
+the	O
+country	O
+of	O
+venezuela	B-country
+
+put	O
+this	O
+song	B-music_item
+on	O
+my	B-playlist_owner
+playlist	O
+in	B-playlist
+the	I-playlist
+name	I-playlist
+of	I-playlist
+blues	I-playlist
+
+will	O
+it	O
+be	O
+colder	B-condition_temperature
+in	O
+ohio	B-state
+
+rate	O
+this	B-object_select
+album	B-object_type
+a	O
+1	B-rating_value
+
+in	B-spatial_relation
+the	I-spatial_relation
+area	I-spatial_relation
+find	O
+some	O
+films	B-movie_type
+
+what	O
+times	B-object_type
+will	O
+the	B-movie_name
+young	I-movie_name
+swordsman	I-movie_name
+be	O
+showing	O
+at	O
+a	O
+local	O
+cinema	B-object_location_type
+
+book	O
+a	O
+brasserie	B-restaurant_type
+for	O
+one	B-party_size_number
+
+play	O
+all	B-track
+of	I-track
+your	I-track
+toys	I-track
+by	O
+chris	B-artist
+ledoux	I-artist
+
+i	O
+want	O
+to	O
+hear	O
+a	O
+joel	B-artist
+hastings	I-artist
+melody	B-music_item
+
+i	O
+want	O
+to	O
+book	O
+a	O
+restaurant	B-restaurant_type
+not	B-spatial_relation
+far	I-spatial_relation
+from	O
+our	B-poi
+college	I-poi
+
+rate	O
+in	O
+stars	B-rating_unit
+as	O
+a	O
+6	B-best_rating
+for	O
+lord	B-object_name
+of	I-object_name
+the	I-object_name
+shadows	I-object_name
+which	O
+gets	O
+a	O
+four	B-rating_value
+
+add	O
+rak	B-entity_name
+biszewilo	I-entity_name
+to	O
+my	B-playlist_owner
+playlist	O
+named	O
+jazz	B-playlist
+
+rate	O
+my	O
+current	B-object_select
+book	B-object_type
+1	B-rating_value
+out	O
+of	O
+6	B-best_rating
+
+what	O
+is	O
+the	O
+weather	O
+not	B-spatial_relation
+far	I-spatial_relation
+from	O
+upper	B-geographic_poi
+klamath	I-geographic_poi
+national	I-geographic_poi
+wildlife	I-geographic_poi
+refuge	I-geographic_poi
+
+add	O
+falling	B-entity_name
+upstairs	I-entity_name
+to	O
+the	O
+playlist	O
+named	O
+chill	B-playlist
+out	I-playlist
+
+will	O
+it	O
+storm	B-condition_description
+in	O
+charles	B-geographic_poi
+pinckney	I-geographic_poi
+national	I-geographic_poi
+historic	I-geographic_poi
+site	I-geographic_poi
+
+play	O
+techno	B-genre
+on	O
+lastfm	B-service
+
+add	O
+the	O
+entire	O
+album	B-music_item
+into	O
+indie	B-playlist
+español	I-playlist
+
+for	O
+the	O
+textbook	B-object_type
+out	O
+of	O
+6	B-best_rating
+possible	O
+i	O
+give	O
+the	O
+following	B-object_select
+one	O
+a	O
+3	B-rating_value
+
+show	O
+me	O
+the	O
+movie	B-object_type
+schedule	I-object_type
+for	O
+star	B-location_name
+theatres	I-location_name
+
+please	O
+find	O
+the	O
+movie	B-object_type
+dancing	B-object_name
+girl	I-object_name
+
+rate	O
+this	B-object_select
+book	B-object_type
+0	B-rating_value
+out	O
+of	O
+6	B-best_rating
+
+is	O
+happy	B-movie_name
+ghost	I-movie_name
+iii	I-movie_name
+at	O
+caribbean	B-location_name
+cinemas	I-location_name
+
+play	O
+theme	B-music_item
+by	O
+yanni	B-artist
+on	O
+vimeo	B-service
+
+rate	O
+the	O
+current	B-object_select
+novel	B-object_type
+a	O
+3	B-rating_value
+
+can	O
+you	O
+pull	O
+up	O
+a	O
+track	B-music_item
+on	O
+zvooq	B-service
+by	O
+graham	B-artist
+mcpherson	I-artist
+
+find	O
+resurrection	B-object_name
+of	I-object_name
+evil	I-object_name
+
+find	O
+playstation官方杂志	B-object_name
+a	O
+song	B-object_type
+
+rate	O
+the	O
+current	B-object_select
+essay	B-object_type
+2	B-rating_value
+out	O
+of	O
+6	B-best_rating
+
+add	O
+this	O
+album	B-music_item
+to	O
+the	O
+playlist	O
+called	O
+dishwashing	B-playlist
+
+find	O
+young	B-object_name
+miss	I-object_name
+holmes	I-object_name
+
+i	O
+give	O
+christianity	B-object_name
+not	I-object_name
+mysterious	I-object_name
+1	B-rating_value
+out	O
+of	O
+6	B-best_rating
+points	B-rating_unit
+
+i	O
+d	O
+like	O
+to	O
+go	O
+to	O
+the	O
+venetian	B-restaurant_name
+theatre	I-restaurant_name
+in	O
+gabon	B-country
+party	O
+of	O
+seven	B-party_size_number
+
+is	O
+it	O
+supposed	O
+to	O
+rain	B-condition_description
+nearby	B-spatial_relation
+my	O
+current	B-current_location
+location	I-current_location
+at	O
+0	B-timeRange
+o	I-timeRange
+clock	I-timeRange
+
+give	O
+zero	B-rating_value
+/	O
+6	B-best_rating
+stars	B-rating_unit
+to	O
+the	O
+current	B-object_select
+album	B-object_type
+
+put	O
+playa	B-artist
+fly	I-artist
+onto	O
+my	B-playlist_owner
+2010	B-playlist
+decade	I-playlist
+playlist	O
+
+show	O
+me	O
+the	O
+painting	B-object_type
+called	O
+fool	B-object_name
+for	I-object_name
+love	I-object_name
+
+rate	O
+what	B-object_name
+the	I-object_name
+dog	I-object_name
+saw	I-object_name
+a	O
+two	B-rating_value
+
+find	O
+a	O
+video	B-object_type
+game	I-object_type
+called	O
+a	B-object_name
+stroll	I-object_name
+in	I-object_name
+the	I-object_name
+pork	I-object_name
+
+add	O
+bret	B-artist
+mckenzie	I-artist
+to	O
+my	B-playlist_owner
+pop	B-playlist
+commute	I-playlist
+playlist	O
+
+what	O
+is	O
+the	O
+weather	O
+supposed	O
+to	O
+be	O
+like	O
+in	O
+new	B-state
+jersey	I-state
+three	B-timeRange
+months	I-timeRange
+from	I-timeRange
+now	I-timeRange
+
+find	O
+the	O
+song	B-object_type
+called	O
+international	B-object_name
+journal	I-object_name
+of	I-object_name
+bilingualism	I-object_name
+
+what	O
+films	B-movie_type
+are	O
+playing	O
+at	O
+goodrich	B-location_name
+quality	I-location_name
+theaters	I-location_name
+
+i	O
+rated	O
+the	B-object_name
+island	I-object_name
+of	I-object_name
+adventure	I-object_name
+saga	B-object_part_of_series_type
+a	O
+2	B-rating_value
+of	O
+6	B-best_rating
+
+i	O
+m	O
+looking	O
+for	O
+the	O
+trailer	B-object_type
+of	O
+highlands	B-object_name
+today	I-object_name
+
+add	O
+this	O
+song	B-music_item
+to	O
+my	B-playlist_owner
+playlist	O
+named	O
+wild	B-playlist
+country	I-playlist
+
+rate	O
+the	B-object_name
+princess	I-object_name
+mouse:	I-object_name
+a	I-object_name
+tale	I-object_name
+of	I-object_name
+finland	I-object_name
+one	B-rating_value
+of	O
+6	B-best_rating
+
+search	O
+for	O
+police	B-object_name
+women	I-object_name
+of	I-object_name
+cincinnati	I-object_name
+
+add	O
+artist	B-music_item
+to	O
+lo	B-playlist
+mejor	I-playlist
+de	I-playlist
+los	I-playlist
+00	I-playlist
+s	I-playlist
+
+i	O
+d	O
+like	O
+johnny	B-artist
+nash	I-artist
+to	O
+be	O
+put	O
+into	O
+my	B-playlist_owner
+playlist	O
+always	B-playlist
+pop	I-playlist
+punk	I-playlist
+
+find	O
+the	O
+they	B-object_name
+came	I-object_name
+from	I-object_name
+somewhere	I-object_name
+else	I-object_name
+saga	B-object_type
+
+i	O
+want	O
+to	O
+watch	O
+the	O
+television	B-object_type
+show	I-object_type
+naked	B-object_name
+ii	I-object_name
+
+book	O
+a	O
+reservation	O
+for	O
+a	O
+pub	B-restaurant_type
+with	O
+ma	B-served_dish
+po	I-served_dish
+tofu	I-served_dish
+in	O
+moldova	B-country
+
+show	O
+the	O
+three	B-object_name
+tales	I-object_name
+album	B-object_type
+
+put	O
+this	O
+album	B-music_item
+in	O
+shuffle	B-playlist
+syndrome	I-playlist
+
+book	O
+me	O
+seats	O
+for	O
+6	B-party_size_number
+at	O
+the	O
+best	B-sort
+brasserie	B-restaurant_type
+that	O
+serves	O
+marche	B-cuisine
+neighboring	B-spatial_relation
+my	B-poi
+hostel	I-poi
+
+play	O
+caitlin	B-artist
+cary	I-artist
+from	O
+the	O
+fourties	B-year
+
+add	O
+a	O
+track	B-music_item
+to	O
+my	B-playlist_owner
+hands	B-playlist
+up	I-playlist
+playlist	O
+
+i	O
+d	O
+like	O
+to	O
+see	O
+the	O
+saga	B-object_type
+tamagotchi	B-object_name
+64:	I-object_name
+minna	I-object_name
+de	I-object_name
+tamagotchi	I-object_name
+world	I-object_name
+
+give	O
+the	B-object_name
+search	I-object_name
+for	I-object_name
+the	I-object_name
+snow	I-object_name
+leopard	I-object_name
+a	O
+rating	O
+of	O
+zero	B-rating_value
+of	O
+6	B-best_rating
+stars	B-rating_unit
+
+for	O
+the	O
+book	B-object_type
+tale	B-object_name
+of	I-object_name
+the	I-object_name
+toa	I-object_name
+i	O
+give	O
+five	B-rating_value
+points	B-rating_unit
+
+will	O
+it	O
+be	O
+warmer	B-condition_temperature
+now	B-timeRange
+in	O
+covenant	B-city
+life	I-city
+
+play	O
+rap	B-album
+album	I-album
+one	I-album
+by	O
+gene	B-artist
+vincent	I-artist
+
+i	O
+want	O
+to	O
+book	O
+the	B-restaurant_name
+hat	I-restaurant_name
+for	O
+my	B-party_size_description
+grandfather	I-party_size_description
+and	I-party_size_description
+i	I-party_size_description
+in	O
+arkansas	B-state
+
+book	O
+a	O
+tea	B-timeRange
+place	O
+at	O
+seven	B-party_size_number
+
+find	O
+the	O
+movie	B-object_type
+schedule	I-object_type
+for	O
+animated	B-movie_type
+movies	I-movie_type
+around	B-spatial_relation
+here	I-spatial_relation
+
+add	O
+rosemary	B-artist
+clooney	I-artist
+to	O
+pura	B-playlist
+vida	I-playlist
+playlist	O
+
+i	O
+need	O
+a	O
+reservation	O
+for	O
+6	B-timeRange
+pm	I-timeRange
+with	O
+a	O
+party	O
+of	O
+10	B-party_size_number
+at	O
+sand	B-city
+lake	I-city
+
+what	O
+is	O
+the	O
+picture	B-object_type
+called	O
+lest	B-object_name
+we	I-object_name
+forget:	I-object_name
+the	I-object_name
+best	I-object_name
+of	I-object_name
+
+find	O
+a	O
+photograph	B-object_type
+called	O
+call	B-object_name
+on	I-object_name
+me	I-object_name
+
+add	O
+tune	B-music_item
+to	O
+my	B-playlist_owner
+hype	B-playlist
+playlist	O
+
+what	O
+films	B-movie_type
+are	O
+playing	O
+at	O
+the	O
+nearest	B-spatial_relation
+movie	B-object_location_type
+theatre	I-object_location_type
+
+add	O
+por	B-entity_name
+una	I-entity_name
+cabeza	I-entity_name
+to	O
+my	B-playlist_owner
+playlist	O
+called	O
+this	B-playlist
+is	I-playlist
+new	I-playlist
+edition	I-playlist
+
+play	O
+a	O
+scott	B-artist
+lafaro	I-artist
+soundtrack	B-music_item
+
+add	O
+wastedagain	B-entity_name
+to	O
+the	O
+wild	B-playlist
+&	I-playlist
+free	I-playlist
+workout	I-playlist
+playlist	O
+
+add	O
+this	O
+track	B-music_item
+to	O
+duetos	B-playlist
+
+find	O
+an	O
+art	O
+called	O
+cassidy	B-object_name
+
+i	O
+want	O
+to	O
+eat	O
+at	O
+a	O
+pickled	B-served_dish
+cucumber	I-served_dish
+brasserie	B-restaurant_type
+in	B-timeRange
+12	I-timeRange
+months	I-timeRange
+
+give	O
+this	B-object_select
+saga	B-object_part_of_series_type
+a	O
+1	B-rating_value
+
+add	O
+the	O
+song	B-music_item
+to	O
+the	O
+dub	B-playlist
+on	I-playlist
+the	I-playlist
+beach	I-playlist
+playlist	O
+
+i	O
+need	O
+a	O
+table	O
+at	O
+the	B-restaurant_name
+ledbury	I-restaurant_name
+at	O
+18	B-timeRange
+o	I-timeRange
+clock	I-timeRange
+
+will	O
+it	O
+be	O
+humid	B-condition_description
+in	O
+beedeville	B-city
+on	O
+november	B-timeRange
+20	I-timeRange
+
+i	O
+want	O
+to	O
+give	O
+the	B-object_name
+canon	I-object_name
+of	I-object_name
+medicine	I-object_name
+one	B-rating_value
+out	O
+of	O
+6	B-best_rating
+stars	B-rating_unit
+
+play	O
+music	O
+from	O
+2014	B-year
+
+play	O
+iheart	B-service
+
+please	O
+look	O
+up	O
+the	O
+falls	B-object_name
+church	I-object_name
+news-press	I-object_name
+album	B-object_type
